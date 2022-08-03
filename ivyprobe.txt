@@ -1,0 +1,22 @@
+Binding to '(.*)'
+Broadcasting on network 127.255.255.255, port 2010
+GUID_COMM_APP connected from localhost
+GUID_COMM_APP sent  'Hello from GUID COMM'
+GUID_SEQ_APP connected from localhost
+GUID_SEQ_APP sent  'GUID_SEQ is Ready'
+IvySimulatorControl connected from localhost
+IvySimulatorControl sent  'IvySimulatorControl ready'
+PyAircraftModel connected from localhost
+PyAircraftModel sent  'PyAircraftModel ready'
+FPLN_APP_LEGS connected from localhost
+FPLN_APP_LEGS sent  'Ready'
+Sim Param connected from localhost
+Sim Param sent  '[Sim Param is ready]'
+Affichage commande connected from localhost
+Affichage commande sent  '[Affichage commande is ready]'
+FPLN_ROUTE_APP connected from localhost
+FPLN_ROUTE_APP sent  'FPLN_ROUTE Ready'
+Horizon Artificiel connected from localhost
+Horizon Artificiel sent  '[Horizon Artificiel is ready]'
+GUID_TRAJ_APP connected from localhost
+GUID_TRAJ_APP sent  'Bonjour de GUID_TRAJ'
