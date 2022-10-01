@@ -18,19 +18,28 @@ Récuperez le dossier sur votre ordianteur:
 ```console
 sudo apt install git-all
 
-git clone --recursive -j8 git@github.com:FlorianSan/FMS.git
+git clone git@github.com:FlorianSan/EAFS.git
 
-git checkout FMS_19
 ```
 En premier, il est necessaire d'installer les modules et la base de données 
 ```console
 
 ./install.sh
 ```
+Sur Windows
+```console
+
+./install_wsl.sh
+```
 Pour lancer le système de gestion du vol
 ```console
 
 ./run.sh
+```
+Sur Windows
+```console
+
+./run_wsl.sh
 ```
 Un terminal ivyprobe est connecté sur le bus et redirigé vers un fichier texte ivyprobe.txt à la racine 
 
