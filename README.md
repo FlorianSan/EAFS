@@ -3,13 +3,16 @@
 Ce projet est à destination d'un machine fonctionnant sous Ubuntu 20.04.1 LTS, 64 bits avec un version GNOME 3.36.8 et un système de fenêtrage X11.
 
 Pour les utilisateurs Windows, nous allons utiliser une système de virtualisation d'Ubuntu dans Windows.
-Pour l'installation, il faut suivre ce tutorial 
-https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/
+Pour l'installation :
+```console
+wsl --install -d Ubuntu-20.04
+```
 
-Dans Ubuntu, il estnecessaire d'intaller un system de fenetrage avec :
+Dans Ubuntu, il est necessaire d'intaller un system de fenetrage avec :
 ```console
 sudo apt install xfce4 xfce4-goodies
 ```
+https://sourceforge.net/projects/vcxsrv/
 
 Récuperez le dossier sur votre ordianteur:
 ```console
