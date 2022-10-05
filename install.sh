@@ -48,6 +48,7 @@ sudo apt install -y build-essential xorg openbox libxt-dev libpcre3-dev tcl8.6-d
 cd GUID_COMM/ivy-c_3.15.1/src/ 
 make
 sudo make install
+chmod 777 app
 
 echo "Installation complete"
 
