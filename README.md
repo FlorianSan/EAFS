@@ -22,7 +22,7 @@ sudo apt upgrade
 sudo apt install xfce4 xfce4-goodies
 ```
 
-Récuperez le dossier sur votre ordianteur:
+Récuperez le dossier sur votre ordinateur:
 ```console
 git clone git@github.com:FlorianSan/EAFS.git
 
