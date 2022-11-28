@@ -22,8 +22,6 @@ https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj
 
 Récuperez le dossier sur votre ordianteur:
 ```console
-sudo apt install git-all
-
 git clone git@github.com:FlorianSan/EAFS.git
 
 ```
