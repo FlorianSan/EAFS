@@ -13,6 +13,8 @@ Dans Ubuntu, il est necessaire d'intaller un system de fenetrage avec :
 sudo apt install xfce4 xfce4-goodies
 ```
 https://sourceforge.net/projects/vcxsrv/
+https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/
+https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj
 
 Récuperez le dossier sur votre ordianteur:
 ```console
