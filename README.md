@@ -3,6 +3,13 @@
 Ce projet est à destination d'un machine fonctionnant sous Ubuntu 20.04.1 LTS, 64 bits avec un version GNOME 3.36.8 et un système de fenêtrage X11.
 
 Pour les utilisateurs Windows, nous allons utiliser une système de virtualisation d'Ubuntu dans Windows.
+https://sourceforge.net/projects/vcxsrv/
+
+https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/
+
+https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj
+
+
 Pour l'installation :
 ```console
 wsl --install -d Ubuntu-20.04
@@ -14,11 +21,6 @@ sudo apt update
 sudo apt upgrade
 sudo apt install xfce4 xfce4-goodies
 ```
-https://sourceforge.net/projects/vcxsrv/
-
-https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/
-
-https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj
 
 Récuperez le dossier sur votre ordianteur:
 ```console
