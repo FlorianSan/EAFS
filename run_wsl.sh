@@ -11,7 +11,7 @@
 #lauch apps
 
 
-export DISPLAY=:0
+export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0
 
 gnome-terminal --working-directory=`pwd`/modele_fcu_ui/ --title=FCU  -- bash -c "python3 simulator.py ; exec bash" &
 sleep 1
