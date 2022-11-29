@@ -24,7 +24,7 @@ sudo apt install xfce4 xfce4-goodies
 
 Récuperez le dossier sur votre ordinateur:
 ```console
-git clone git@github.com:FlorianSan/EAFS.git
+git clone https://github.com/FlorianSan/EAFS.git
 
 ```
 En premier, il est necessaire d'installer les modules et la base de données 
